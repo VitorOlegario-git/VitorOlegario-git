@@ -26,7 +26,7 @@ Estou cursando também o AWS Academy Cloud Architecting [AWS](https://awsacademy
 
 ## 📌 Projetos em destaque
 
-🔹 [**VISTA – Visão Integrada de Sistemas Técnicos e Análise**](https://github.com/VitorOlegario/KPI)  
+🔹 [**VISTA – Visão Integrada de Sistemas Técnicos e Análise**](https://github.com/VitorOlegario-git/VISTA.git)
 Sistema de indicadores técnicos para assistência técnica, com painel interativo, KPIs, automações e gráficos em tempo real.
 
 🔹 ![**Podcast com IA**](https://github.com/VitorOlegario-git/Prompts)
